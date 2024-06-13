@@ -10,7 +10,7 @@
     <header>
         <nav>
             <div class="container">
-                <h1>ShopTalk Copywriting</h1>
+                <h1>ShopTalk Copywriting Agency</h1>
                 <ul>
                     <li><a href="#services">Services</a></li>
                     <li><a href="#process">Process</a></li>
@@ -40,7 +40,11 @@
                         <h3>Blog Posts</h3>
                         <p>Informative and well-researched blog posts that keep your audience engaged and improve SEO.</p>
                     </div>
-                   <div class="service">
+                    <div class="service">
+                        <h3>Social Media Content</h3>
+                        <p>Crafting attention-grabbing posts that boost your social media presence and foster engagement.</p>
+                    </div>
+                    <div class="service">
                         <h3>Email Marketing</h3>
                         <p>Designing compelling email campaigns that drive conversions and engagement.</p>
                     </div>
@@ -60,6 +64,14 @@
             <div class="container">
                 <h2>Our Process</h2>
                 <div class="process-steps">
+                    <div class="process-step">
+                        <h3>Consultation</h3>
+                        <p>We start with a thorough consultation to understand your business, audience, and goals.</p>
+                    </div>
+                    <div class="process-step">
+                        <h3>Research</h3>
+                        <p>Conducting in-depth research to ensure accurate, relevant, and engaging content.</p>
+                    </div>
                     <div class="process-step">
                         <h3>Creation</h3>
                         <p>Crafting compelling copy that reflects your brand’s voice and meets your objectives.</p>
@@ -82,11 +94,6 @@
             <h2>Contact Us</h2>
             <p>Ready to elevate your brand with captivating copy? Contact us today to discuss your project.</p>
             <a href="mailto:shoptalkcopywriting@gmail.com" class="btn-contact">Contact Us</a>
-            <div class="social-links">
-                <a href="#" target="_blank" rel="noopener noreferrer"><img src="images/facebook.png" alt="Facebook"></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><img src="images/twitter.png" alt="Twitter"></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><img src="images/linkedin.png" alt="LinkedIn"></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><img src="images/instagram.png" alt="Instagram"></a>
             </div>
         </div>
     </footer>
